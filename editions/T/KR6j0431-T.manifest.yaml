@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0431/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0431/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖無動尊一字出生八大童子祕要法品
+  identifiers:
+    krp: KR6j0431
+    cbeta: T21n1204
+    cbeta_old_id: T21n1204
+    authorityid: CA0002984
+    json_key: T1204
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1204.xml
+    old_id: T21n1204
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0431_000-T.yaml, hash: 'sha256:36b7f5016b7f5b9006cbea73f81bc3dc228530508ff10c22fe343c8ea824bc5a'}
+  - {seq: 1, filename: KR6j0431_001-T.yaml, hash: 'sha256:9035c5dbfb5d800cce82141229c2dba13ed9d278d53d40be3e4df545f1a1e5ba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0431_000-T.markers.yaml, hash: 'sha256:103d9f903b46202c9a8716aa2382332959f7e4cc7b0ec5019d79bc21a1c9c44e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0431_001-T.markers.yaml, hash: 'sha256:6809c9ffbbc0eddb8d03e73e573e89c16d5b7412dcfb8da75626d34c807e47ef'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0431_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2055
+  label: '聖無動尊一字出生八大童子祕
+
+    要法品'
+  type: juan
+  level: 1
+hash: sha256:5f165dd9180cffcc6a346715910e15ac2f6dc03313025c2b98aa1082bc39fbd5

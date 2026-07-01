@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0431/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖無動尊一字出生八大童子祕要法品
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1204.xml
+    old_id: T21n1204
+hash: sha256:36b7f5016b7f5b9006cbea73f81bc3dc228530508ff10c22fe343c8ea824bc5a
