@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0431/v1
 canonical_location: https://kanripo.org/bkk/KR6j0431/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 聖無動尊一字出生八大童子祕要法品
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0431_000.yaml, hash: 'sha256:36b7f5016b7f5b9006cbea73f81bc3dc228530508ff10c22fe343c8ea824bc5a'}
-  - {seq: 1, filename: KR6j0431_001.yaml, hash: 'sha256:9035c5dbfb5d800cce82141229c2dba13ed9d278d53d40be3e4df545f1a1e5ba'}
+  - {seq: 1, filename: KR6j0431_001.yaml, hash: 'sha256:dd3ab78b19f2b06a8761bcf0a6079debe2866df2710e085cd745291343fc3c58'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0431_000.markers.yaml, hash: 'sha256:476773f3ef528a2cf2498d3656bbe0b9ae57e652f7d2b581e11a2848387fe2ae'}
-  - {seq: 1, role: markers, filename: assets/KR6j0431_001.markers.yaml, hash: 'sha256:a14237d0aa2d8b8a81b8a979cc235b0b96a99b756c6b201620d7e9d934efb1dc'}
+  - {seq: 1, role: markers, filename: assets/KR6j0431_001.markers.yaml, hash: 'sha256:58d0c1c0ae59cdb490ce3f0d431b7858f9118f36133cde101f8f89cdbc76dfb6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     要法品'
   type: juan
   level: 1
-hash: sha256:3271255caa92574ed2e4978c2389b438ecaec03802af60a594d3ed7fa783f51b
+hash: sha256:59a42cf772396faf582fba2d85ae55ab22a750ae3b1c669113a43b17d79d5374
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
